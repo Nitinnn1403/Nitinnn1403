@@ -1,7 +1,5 @@
 # Nitinnn
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying at D Y Patil University
 - 🌱 I’m currently learning C/C++
 - 🤔 I’m looking for help with HTML and CSS
