@@ -5,6 +5,7 @@
 - 🤔 I’m looking for help with docker
 - 📫 How to reach me: LinkedIn and Instagram
 
+#GSSOC(25) CAMPUS AMBASSADOR
 #GSSOC(24) CONTRIBUTOR 
 
 ## GSSOC(24) Badges 🪶
