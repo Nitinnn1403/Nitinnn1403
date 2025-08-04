@@ -1,8 +1,8 @@
 # Nitinnn
 
 - 🔭 I’m currently studying at D Y Patil University
-- 🌱 I’m currently learning C/C++
-- 🤔 I’m looking for help with HTML and CSS
+- 🌱 I’m currently learning js frameworks
+- 🤔 I’m looking for help with docker
 - 📫 How to reach me: LinkedIn and Instagram
 
 #GSSOC(24) CONTRIBUTOR 
