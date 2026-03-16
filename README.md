@@ -15,8 +15,6 @@ I am a **Computer Engineering** student at **DY University** (Expected 2028) bas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinnn1403&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-> **Note**: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub handle!
-
 ---
 
 ### 🛠 Tech Stack
