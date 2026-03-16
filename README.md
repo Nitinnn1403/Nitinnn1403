@@ -20,14 +20,14 @@ I am a Computer Engineering student at **DY University** (Expected 2028) based i
 
 ### 📂 Featured Projects
 
-#### 🤖 [ORION - Agentic AI Desktop Assistant](https://www.google.com/search?q=https://nitinpandey.vercel.app)
+#### 🤖 [ORION - Agentic AI Desktop Assistant](https://nitinpandey.vercel.app)
 
 * **Overview**: A real-time desktop assistant that converts natural-language commands into context-aware system actions.
 * **Key Features**: Implemented streaming response delivery, parallel context retrieval, and interruption handling.
 * **Innovation**: Designed persistent memory and personalization modules (semantic recall and persona adaptation) for high response relevance.
 * **Stack**: Python, NLP, Flask-SocketIO, PyWebView, SQLite.
 
-#### 🌾 [Kisan Drishti - AI Agricultural Advisor](https://www.google.com/search?q=https://nitinpandey.vercel.app)
+#### 🌾 [Kisan Drishti - AI Agricultural Advisor](https://nitinpandey.vercel.app)
 
 * **Overview**: An AI-powered decision support system providing crop recommendations and disease guidance for farmers.
 * **Functionality**: Built ML-driven prediction and classification workflows to improve agricultural decision-making.
