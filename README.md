@@ -11,7 +11,7 @@ I am a **Computer Engineering** student at **DY University** (Expected 2028) bas
 
 ### 📊 My GitHub Journey
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitinnn1403&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nitin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitinnn1403&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Nitin's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinnn1403&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
