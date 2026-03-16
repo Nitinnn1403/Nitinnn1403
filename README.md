@@ -12,12 +12,11 @@ I am a **Computer Engineering** student at **DY University** (Expected 2028) bas
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile?username=Nitinnn1403&theme=monokai" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinnn1403&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Nitinnn1403&theme=monokai" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nitinnn1403&theme=monokai" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinnn1403&layout=donut&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
